@@ -1,0 +1,105 @@
+@model IEnumerable<AliMertOyunMagaza.Models.WishlistItem>
+
+@{
+    ViewData["Title"] = "Admin Dashboard";
+    var chartLabels = ViewBag.ChartLabels as List<string>;
+    var chartData = ViewBag.ChartData as List<int>;
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4 mt-4">
+    <h2 class="text-primary"><i class="bi bi-speedometer2"></i> Admin Paneli</h2>
+    <div>
+        <a asp-action="ExportExcel" class="btn btn-success me-2"><i class="bi bi-file-earmark-excel"></i> Excel Çıktısı Al</a>
+        <a asp-action="ExportPdf" class="btn btn-danger"><i class="bi bi-file-earmark-pdf"></i> PDF Çıktısı Al</a>
+    </div>
+</div>
+
+<div class="row mb-5">
+    <div class="col-md-6 offset-md-3">
+        <div class="card">
+            <div class="card-header border-secondary fw-bold text-center">
+                En Çok İstek Listesine Eklenen Oyun Türleri
+            </div>
+            <div class="card-body">
+                <canvas id="wishlistChart"></canvas>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="card bg-dark text-white border-secondary">
+    <div class="card-header border-secondary fw-bold">
+        Tüm Kullanıcı İstek Listeleri
+    </div>
+    <div class="card-body">
+        <table class="table table-dark table-striped table-hover">
+            <thead>
+                <tr>
+                    <th>Kullanıcı</th>
+                    <th>Oyun</th>
+                    <th>Kategori</th>
+                    <th>Tarih</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@(item.User?.UserName)</td>
+                        <td>@(item.Game?.Title)</td>
+                        <td>@(item.Game?.Category?.Name)</td>
+                        <td>@item.AddedAt.ToString("dd.MM.yyyy")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var ctx = document.getElementById('wishlistChart').getContext('2d');
+            var labels = @Html.Raw(Json.Serialize(chartLabels));
+            var data = @Html.Raw(Json.Serialize(chartData));
+
+            var wishlistChart = new Chart(ctx, {
+                type: 'doughnut',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'İstek Listesi Sayısı',
+                        data: data,
+                        backgroundColor: [
+                            'rgba(255, 99, 132, 0.7)',
+                            'rgba(54, 162, 235, 0.7)',
+                            'rgba(255, 206, 86, 0.7)',
+                            'rgba(75, 192, 192, 0.7)',
+                            'rgba(153, 102, 255, 0.7)'
+                        ],
+                        borderColor: [
+                            'rgba(255, 99, 132, 1)',
+                            'rgba(54, 162, 235, 1)',
+                            'rgba(255, 206, 86, 1)',
+                            'rgba(75, 192, 192, 1)',
+                            'rgba(153, 102, 255, 1)'
+                        ],
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: {
+                                color: 'white' // This will be handled by CSS variables later, but set to white for dark mode default
+                            }
+                        }
+                    }
+                }
+            });
+        });
+    </script>
+}

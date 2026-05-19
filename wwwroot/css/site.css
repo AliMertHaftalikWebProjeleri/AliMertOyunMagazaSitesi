@@ -1,0 +1,90 @@
+:root {
+  --bg-color: #121212;
+  --text-color: #ffffff;
+  --nav-bg: #1f1f1f;
+  --nav-border: #333;
+  --card-bg: #1e1e1e;
+  --card-border: #333;
+  --card-hover-border: #0d6efd;
+}
+
+[data-theme="light"] {
+  --bg-color: #f8f9fa;
+  --text-color: #212529;
+  --nav-bg: #ffffff;
+  --nav-border: #dee2e6;
+  --card-bg: #ffffff;
+  --card-border: #dee2e6;
+  --card-hover-border: #0d6efd;
+}
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.navbar-custom {
+  background-color: var(--nav-bg) !important;
+  border-bottom: 1px solid var(--nav-border) !important;
+  transition: background-color 0.3s, border-color 0.3s;
+}
+
+/* Force override bootstrap cards to use variables */
+.card {
+  background-color: var(--card-bg) !important;
+  border: 1px solid var(--card-border) !important;
+  color: var(--text-color) !important;
+  transition: transform 0.2s, box-shadow 0.2s, background-color 0.3s, border-color 0.3s;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.5);
+  border-color: var(--card-hover-border) !important;
+}
+
+.text-dynamic {
+  color: var(--text-color) !important;
+}
+
+.theme-toggle-btn {
+  background: transparent;
+  border: none;
+  color: var(--text-color);
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.theme-toggle-btn:hover {
+  color: #0d6efd;
+}
+
+.alert-info.bg-dark {
+    background-color: var(--card-bg) !important;
+    color: var(--text-color) !important;
+}

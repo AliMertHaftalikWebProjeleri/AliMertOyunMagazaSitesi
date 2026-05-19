@@ -1,0 +1,617 @@
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\appsettings.Development.json
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\appsettings.json
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\AliMertOyunMagaza.staticwebassets.runtime.json
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\AliMertOyunMagaza.staticwebassets.endpoints.json
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\AliMertOyunMagaza.exe
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\AliMertOyunMagaza.deps.json
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\AliMertOyunMagaza.runtimeconfig.json
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\AliMertOyunMagaza.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\AliMertOyunMagaza.pdb
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Azure.Core.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Azure.Identity.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Humanizer.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.ClientModel.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.CodeDom.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Memory.Data.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.csproj.AssemblyReference.cache
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.GeneratedMSBuildEditorConfig.editorconfig
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.AssemblyInfoInputs.cache
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.AssemblyInfo.cs
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.csproj.CoreCompileInputs.cache
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.MvcApplicationPartsAssemblyInfo.cs
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.MvcApplicationPartsAssemblyInfo.cache
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.RazorAssemblyInfo.cache
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.RazorAssemblyInfo.cs
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\scopedcss\bundle\AliMertOyunMagaza.styles.css
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\scopedcss\projectbundle\AliMertOyunMagaza.bundle.scp.css
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets.build.json
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets.development.json
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets\msbuild.AliMertOyunMagaza.Microsoft.AspNetCore.StaticWebAssets.props
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets\msbuild.AliMertOyunMagaza.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets\msbuild.build.AliMertOyunMagaza.props
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AliMertOyunMagaza.props
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AliMertOyunMagaza.props
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets.pack.json
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertO.4C69AB14.Up2Date
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\refint\AliMertOyunMagaza.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.pdb
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.genruntimeconfig.cache
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\ref\AliMertOyunMagaza.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\appsettings.Development.json
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\appsettings.json
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\AliMertOyunMagaza.staticwebassets.runtime.json
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\AliMertOyunMagaza.staticwebassets.endpoints.json
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\OFL.txt
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\AliMertOyunMagaza.exe
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\AliMertOyunMagaza.deps.json
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\AliMertOyunMagaza.runtimeconfig.json
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\AliMertOyunMagaza.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\AliMertOyunMagaza.pdb
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Azure.Core.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Azure.Identity.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ClosedXML.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ClosedXML.Parser.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ExcelNumberFormat.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Humanizer.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\QuestPDF.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\RBush.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\SixLabors.Fonts.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.ClientModel.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.CodeDom.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.IO.Packaging.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Memory.Data.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\linux-arm64\native\libQuestPdfSkia.so
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\linux-arm64\native\libqpdf.so
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libqpdf.so
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\linux-x64\native\libQuestPdfSkia.so
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\linux-x64\native\libqpdf.so
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\osx-arm64\native\libqpdf.dylib
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\osx-x64\native\libqpdf.dylib
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x64\native\QuestPdfSkia.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x64\native\libstdc++-6.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x64\native\libwinpthread-1.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x64\native\qpdf.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x86\native\QuestPdfSkia.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x86\native\libstdc++-6.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x86\native\libwinpthread-1.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x86\native\qpdf.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.csproj.AssemblyReference.cache
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.GeneratedMSBuildEditorConfig.editorconfig
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.AssemblyInfoInputs.cache
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.AssemblyInfo.cs
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.csproj.CoreCompileInputs.cache
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.MvcApplicationPartsAssemblyInfo.cs
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.MvcApplicationPartsAssemblyInfo.cache
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.RazorAssemblyInfo.cache
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.RazorAssemblyInfo.cs
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\scopedcss\bundle\AliMertOyunMagaza.styles.css
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\scopedcss\projectbundle\AliMertOyunMagaza.bundle.scp.css
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets.build.json
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets.development.json
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets\msbuild.AliMertOyunMagaza.Microsoft.AspNetCore.StaticWebAssets.props
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets\msbuild.AliMertOyunMagaza.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets\msbuild.build.AliMertOyunMagaza.props
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AliMertOyunMagaza.props
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AliMertOyunMagaza.props
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets.pack.json
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertO.4C69AB14.Up2Date
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\refint\AliMertOyunMagaza.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.pdb
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.genruntimeconfig.cache
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\ref\AliMertOyunMagaza.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\OFL.txt
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ClosedXML.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ClosedXML.Parser.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\ExcelNumberFormat.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\QuestPDF.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\RBush.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\SixLabors.Fonts.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\linux-arm64\native\libQuestPdfSkia.so
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\linux-arm64\native\libqpdf.so
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libqpdf.so
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\linux-x64\native\libQuestPdfSkia.so
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\linux-x64\native\libqpdf.so
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\osx-arm64\native\libqpdf.dylib
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\osx-x64\native\libqpdf.dylib
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x64\native\QuestPdfSkia.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x64\native\libstdc++-6.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x64\native\libwinpthread-1.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x64\native\qpdf.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x86\native\QuestPdfSkia.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x86\native\libstdc++-6.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x86\native\libwinpthread-1.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x86\native\qpdf.dll
+D:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+E:\KIOXIA\Ali Mert 11-A Web Tabanlı Dersi\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\appsettings.json
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\LatoFont\OFL.txt
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\AliMertOyunMagaza.staticwebassets.runtime.json
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\AliMertOyunMagaza.staticwebassets.endpoints.json
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\AliMertOyunMagaza.exe
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\AliMertOyunMagaza.deps.json
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\AliMertOyunMagaza.runtimeconfig.json
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\AliMertOyunMagaza.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\AliMertOyunMagaza.pdb
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\ClosedXML.Parser.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Humanizer.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\QuestPDF.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\RBush.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\linux-arm64\native\libqpdf.so
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libqpdf.so
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\linux-x64\native\libqpdf.so
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\osx-arm64\native\libqpdf.dylib
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\osx-x64\native\libqpdf.dylib
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x64\native\qpdf.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x86\native\qpdf.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.csproj.AssemblyReference.cache
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.AssemblyInfoInputs.cache
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.AssemblyInfo.cs
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.csproj.CoreCompileInputs.cache
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.RazorAssemblyInfo.cache
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.RazorAssemblyInfo.cs
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\scopedcss\bundle\AliMertOyunMagaza.styles.css
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\scopedcss\projectbundle\AliMertOyunMagaza.bundle.scp.css
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets\msbuild.AliMertOyunMagaza.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets\msbuild.AliMertOyunMagaza.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets\msbuild.build.AliMertOyunMagaza.props
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AliMertOyunMagaza.props
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AliMertOyunMagaza.props
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\AliMertO.4C69AB14.Up2Date
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\refint\AliMertOyunMagaza.dll
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.pdb
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\AliMertOyunMagaza.genruntimeconfig.cache
+C:\Users\TOSUN\Desktop\flash yedek nisan\Ali Mert 11-A Web Tabanlı Dersi\Haftalık Yapılan Web Projeleri\AliMertOyunMagaza\obj\Debug\net8.0\ref\AliMertOyunMagaza.dll

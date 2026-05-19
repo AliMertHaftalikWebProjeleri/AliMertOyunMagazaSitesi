@@ -1,0 +1,90 @@
+@using Microsoft.AspNetCore.Identity
+@using AliMertOyunMagaza.Models
+@using AliMertOyunMagaza.Data
+@inject AppDbContext DbContext
+
+<!DOCTYPE html>
+<html lang="tr" data-theme="dark">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Oyun Mağazası</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/AliMertOyunMagaza.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-custom box-shadow mb-4 py-3">
+            <div class="container-fluid">
+                <a class="navbar-brand text-primary fw-bold" asp-area="" asp-controller="Home" asp-action="Index">
+                    <i class="bi bi-controller fs-4 align-middle"></i> <span class="fs-4 align-middle text-dynamic">GameStore</span>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Navigasyonu aç">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1 ms-4 fs-5 align-items-center">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-dynamic fw-bold" href="#" id="categoryDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                <i class="bi bi-collection"></i> Kategoriler
+                            </a>
+                            <ul class="dropdown-menu dropdown-menu-dark shadow" aria-labelledby="categoryDropdown">
+                                <li><a class="dropdown-item" asp-controller="Catalog" asp-action="Index">Tüm Oyunlar</a></li>
+                                <li><hr class="dropdown-divider"></li>
+                                @foreach (var category in DbContext.Categories.ToList())
+                                {
+                                    <li><a class="dropdown-item" asp-controller="Catalog" asp-action="Index" asp-route-categoryId="@category.Id">@category.Name</a></li>
+                                }
+                            </ul>
+                        </li>
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <li class="nav-item ms-3">
+                                <a class="nav-link text-warning fw-bold" asp-controller="Admin" asp-action="Index">
+                                    <i class="bi bi-shield-lock"></i> Admin Paneli
+                                </a>
+                            </li>
+                        }
+                    </ul>
+                    <button id="themeToggle" class="theme-toggle-btn me-3" title="Temayı Değiştir">
+                        <i class="bi bi-moon-fill" id="themeIcon"></i>
+                    </button>
+                    <partial name="_LoginPartial" />
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @if (TempData["SuccessMessage"] != null)
+            {
+                <div class="alert alert-success alert-dismissible bg-success text-white border-0 fade show shadow" role="alert">
+                    <i class="bi bi-check-circle-fill"></i> @TempData["SuccessMessage"]
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="alert" aria-label="Close"></button>
+                </div>
+            }
+            @if (TempData["ErrorMessage"] != null)
+            {
+                <div class="alert alert-danger alert-dismissible bg-danger text-white border-0 fade show shadow" role="alert">
+                    <i class="bi bi-exclamation-circle-fill"></i> @TempData["ErrorMessage"]
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="alert" aria-label="Close"></button>
+                </div>
+            }
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top border-secondary footer text-dynamic mt-5 py-4 navbar-custom">
+        <div class="container text-center">
+            &copy; @DateTime.Now.Year - Tasarım & Geliştirme: GameStore - <a asp-area="" class="text-primary text-decoration-none" asp-controller="Home" asp-action="Privacy">Gizlilik Politikası</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
